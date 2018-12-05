@@ -1,3 +1,4 @@
 # z81-xpressNet-simulator
-Simulates z21b and XpressNet interfaces using esp8266
-PlatformIO project using c++11/c++14
+Simulates z21b DCC command station and XpressNet interfaces.
+
+This is a PlatformIO project for esp8266 using c++11/c++14
